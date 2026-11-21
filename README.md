@@ -45,8 +45,6 @@ A ideia central é separar as responsabilidades:
 | `requirements.txt` | Dependências Python da aplicação local (sem pins de versão). |
 | `README.md` | Este documento. |
 
-> O diretório `.venv/` (Python 3.13) existe localmente, mas está vazio de pacotes — as dependências ainda precisam ser instaladas nele.
-
 ---
 
 ## 3. Como funciona, passo a passo
